@@ -63,7 +63,8 @@ Execute the program
 ```
 
 # OUPUT
-![Alt text](<Screenshot 2023-11-22 100601.png>)
+![image](https://github.com/PREM3112/ODD2023-WT-Ex-03-Timetable/assets/145449383/85c72d0d-357f-4647-ae07-aae842787add)
+
 
 # result
 thus the desire time table created.
